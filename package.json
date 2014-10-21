@@ -1,0 +1,10 @@
+{
+  "name": "imui",
+  "version": "0.1.0",
+  "description": "icooder mobile ui",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-less": "~0.11.4",
+    "grunt-css": "^0.5.4"
+  }
+}
